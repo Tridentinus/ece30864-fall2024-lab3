@@ -35,3 +35,16 @@ What are the 3 types of meetings that happen during sprint cycle? List at least 
 - Demonstrate the completed work to stakeholders and gather their feedback.
 - Discuss any changes or adjustments needed based on the feedback received.
 
+Differentiate between Epic, Story, Bug, and Task Issue Types in JIRA
+Epic: 
+- An Epic is a large body of work that can be broken down into smaller, more manageable pieces called Stories. It represents a significant feature or functionality that provides value to the users or stakeholders. Epics are typically too big to be completed within a single sprint and span across multiple sprints.
+
+Story:
+- A Story represents a user or customer requirement that delivers value to the product. It is a small, self-contained unit of work that can be completed within a single sprint. Stories are typically written from the perspective of the end-user and describe the desired functionality or behavior of the system.
+
+Bug:
+- A Bug represents an issue or defect in the software that needs to be fixed. It describes unexpected behavior or problems encountered in the system. Bugs are typically reported by users or identified during testing and require investigation, analysis, and resolution.
+
+Task:
+- A Task represents a specific piece of work that needs to be done to complete a Story or an Epic. It is a smaller, more granular unit of work that can be assigned to an individual or a team. Tasks are often used to break down Stories or Epics into actionable items and track progress at a more detailed level.
+
