@@ -1,0 +1,23 @@
+What are some pros and cons of Agile Development (list 2 of each)
+Pros:
+1. Flexibility: Agile development allows for flexibility in adapting to changing requirements and priorities.
+2. Faster Time-to-Market: The iterative nature of Agile development enables faster delivery of working software.
+
+Cons:
+1. Lack of Documentation: Agile development often prioritizes working software over comprehensive documentation, which can lead to a lack of documentation.
+2. Scope Creep: Without proper control, Agile development can suffer from scope creep, where the project's scope expands beyond the initial plan.
+
+Q: Explain the role and responsibilities of Scrum Master vs Product Owner
+Scrum Master:
+- Facilitates the Scrum process: The Scrum Master is responsible for ensuring that the Scrum framework is followed and that all team members understand and adhere to its principles and practices.
+- Removes obstacles: The Scrum Master identifies and removes any obstacles or impediments that may hinder the team's progress, ensuring a smooth and efficient workflow.
+- Facilitates communication: The Scrum Master facilitates effective communication among team members, stakeholders, and other parties involved in the project.
+- Coaches the team: The Scrum Master provides guidance and coaching to the team, helping them improve their skills, collaboration, and overall performance.
+
+Product Owner:
+- Defines and prioritizes requirements: The Product Owner is responsible for defining and prioritizing the product backlog, ensuring that it aligns with the overall vision and goals of the project.
+- Represents the stakeholders: The Product Owner acts as the liaison between the development team and the stakeholders, gathering feedback, managing expectations, and ensuring that the product meets the needs of the stakeholders.
+- Makes decisions: The Product Owner makes critical decisions regarding the product, such as what features to include, what to prioritize, and when to release.
+- Ensures value delivery: The Product Owner is accountable for maximizing the value delivered by the development team, ensuring that the product meets the needs of the customers and provides a competitive advantage.
+
+
