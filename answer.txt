@@ -21,3 +21,17 @@ Product Owner:
 - Ensures value delivery: The Product Owner is accountable for maximizing the value delivered by the development team, ensuring that the product meets the needs of the customers and provides a competitive advantage.
 
 
+What are the 3 types of meetings that happen during sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+
+1. Sprint Planning Meeting:
+- Discuss and prioritize the user stories or backlog items to be included in the upcoming sprint.
+- Determine the sprint goal and define the tasks required to achieve it.
+
+2. Daily Stand-up Meeting:
+- Share progress updates on individual tasks and discuss any obstacles or challenges faced.
+- Coordinate and align efforts within the team to ensure smooth progress towards the sprint goal.
+
+3. Sprint Review Meeting:
+- Demonstrate the completed work to stakeholders and gather their feedback.
+- Discuss any changes or adjustments needed based on the feedback received.
+
